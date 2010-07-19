@@ -11,7 +11,7 @@
 ** Detailed descriptions are on file "descrEng.txt" 
 ** numbers between brackets, eg.: [1] , are the references to the specific 
 ** decription into the file
-**
+**+++++++
 -------------------------------------------------------------------------------
 Copyright 2010 Guido Ottaviani
 guido@guiott.com
